@@ -1,7 +1,66 @@
 [
   {
+<<<<<<< HEAD
     "id": "pal-mu9b7xs0",
     "name": "Autumn Hearth Sep 20",
+=======
+    "id": "pal-mu9b2gbv",
+    "name": "Solar Flare Sep 20",
+    "category": "analogous",
+    "createdAt": "2026-09-20T04:17:46.026Z",
+    "likes": 0,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#787AED",
+        "hsl": [
+          239,
+          77,
+          70
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#8928F0",
+        "hsl": [
+          269,
+          87,
+          55
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D909DC",
+        "hsl": [
+          299,
+          92,
+          45
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#84154E",
+        "hsl": [
+          329,
+          72,
+          30
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-mu9axvp7",
+    "name": "Galactic Nebula Sep 20",
+>>>>>>> b52366af230c07d845778399cced58c119088b1c
     "category": "analogous",
     "createdAt": "2026-09-20T04:22:01.919Z",
     "likes": 362,
