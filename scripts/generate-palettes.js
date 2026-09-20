@@ -211,7 +211,7 @@ export function createPalette(id, name, type, colors, date = new Date().toISOStr
   if (avgLight < 40) tags.push('dark');
   if (tags.length < 3) tags.push('modern');
 
-  const randomLikes = likes !== null ? likes : Math.floor(Math.random() * 85) + 18;
+  const randomLikes = likes !== null ? likes : Math.floor(Math.random() * 260) + 215;
 
   return {
     id,
@@ -237,7 +237,7 @@ export function generateSeedDataset() {
     name: 'HexHunt Cyan & Mint',
     category: 'analogous',
     createdAt: '2026-09-20T00:00:00.000Z',
-    likes: 194,
+    likes: 542,
     tags: ['analogous', 'signature', 'vibrant', 'brand', 'modern'],
     colors: [
       { hex: '#30AFFF', hsl: [203, 100, 59], name: 'Brand Primary Blue', contrast: 'dark' },
@@ -267,7 +267,7 @@ export function generateSeedDataset() {
         type,
         colors,
         d.toISOString(),
-        Math.floor(Math.random() * 120) + 15
+        Math.floor(Math.random() * 260) + 215
       )
     );
   }
@@ -309,12 +309,11 @@ export function runGenerator() {
   const baseH = Math.floor(Math.random() * 360);
   const baseS = Math.floor(Math.random() * 30) + 65;
   const baseL = Math.floor(Math.random() * 25) + 42;
-
   const colors = generateHarmoniousColors(type, baseH, baseS, baseL);
   const newId = `pal-${Date.now().toString(36)}`;
   const randomName = `${PALETTE_NAMES[Math.floor(Math.random() * PALETTE_NAMES.length)]} ${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}`;
-  
-  const newPalette = createPalette(newId, randomName, type, colors, today, 0);
+  const dailyInitialLikes = Math.floor(Math.random() * 160) + 210;
+  const newPalette = createPalette(newId, randomName, type, colors, today, dailyInitialLikes);
 
   const updated = [newPalette, ...existing];
   fs.writeFileSync(DATA_FILE, JSON.stringify(updated, null, 2), 'utf-8');
