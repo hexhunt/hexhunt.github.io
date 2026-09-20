@@ -1,118 +1,5 @@
 [
   {
-<<<<<<< HEAD
-    "id": "pal-mu9b7xs0",
-    "name": "Autumn Hearth Sep 20",
-=======
-    "id": "pal-mu9b2gbv",
-    "name": "Solar Flare Sep 20",
-    "category": "analogous",
-    "createdAt": "2026-09-20T04:17:46.026Z",
-    "likes": 0,
-    "tags": [
-      "analogous",
-      "vibrant",
-      "modern"
-    ],
-    "colors": [
-      {
-        "hex": "#787AED",
-        "hsl": [
-          239,
-          77,
-          70
-        ],
-        "name": "Cobalt Energy",
-        "contrast": "light"
-      },
-      {
-        "hex": "#8928F0",
-        "hsl": [
-          269,
-          87,
-          55
-        ],
-        "name": "Electric Violet",
-        "contrast": "light"
-      },
-      {
-        "hex": "#D909DC",
-        "hsl": [
-          299,
-          92,
-          45
-        ],
-        "name": "Plum Shadow",
-        "contrast": "light"
-      },
-      {
-        "hex": "#84154E",
-        "hsl": [
-          329,
-          72,
-          30
-        ],
-        "name": "Plum Shadow",
-        "contrast": "light"
-      }
-    ]
-  },
-  {
-    "id": "pal-mu9axvp7",
-    "name": "Galactic Nebula Sep 20",
->>>>>>> b52366af230c07d845778399cced58c119088b1c
-    "category": "analogous",
-    "createdAt": "2026-09-20T04:22:01.919Z",
-    "likes": 362,
-    "tags": [
-      "analogous",
-      "vibrant",
-      "modern"
-    ],
-    "colors": [
-      {
-        "hex": "#F4EE95",
-        "hsl": [
-          56,
-          81,
-          77
-        ],
-        "name": "Golden Honey",
-        "contrast": "dark"
-      },
-      {
-        "hex": "#AAF646",
-        "hsl": [
-          86,
-          91,
-          62
-        ],
-        "name": "Emerald Spire",
-        "contrast": "dark"
-      },
-      {
-        "hex": "#20F910",
-        "hsl": [
-          116,
-          95,
-          52
-        ],
-        "name": "Emerald Spire",
-        "contrast": "dark"
-      },
-      {
-        "hex": "#17A655",
-        "hsl": [
-          146,
-          76,
-          37
-        ],
-        "name": "Deep Forest",
-        "contrast": "light"
-      }
-    ]
-  },
-  {
     "id": "pal-hexhunt-signature",
     "name": "HexHunt Cyan & Mint",
     "category": "analogous",
@@ -173,7 +60,7 @@
     "name": "Aurora Borealis",
     "category": "complementary",
     "createdAt": "2026-09-19T00:00:00.000Z",
-    "likes": 471,
+    "likes": 458,
     "tags": [
       "complementary",
       "modern"
@@ -226,7 +113,7 @@
     "name": "Cyberpunk Neon",
     "category": "analogous",
     "createdAt": "2026-09-18T00:00:00.000Z",
-    "likes": 280,
+    "likes": 267,
     "tags": [
       "analogous",
       "vibrant",
@@ -280,7 +167,7 @@
     "name": "Nordic Frost",
     "category": "triadic",
     "createdAt": "2026-09-17T00:00:00.000Z",
-    "likes": 355,
+    "likes": 406,
     "tags": [
       "triadic",
       "vibrant",
@@ -334,7 +221,7 @@
     "name": "Desert Mirage",
     "category": "tetradic",
     "createdAt": "2026-09-16T00:00:00.000Z",
-    "likes": 449,
+    "likes": 351,
     "tags": [
       "tetradic",
       "vibrant",
@@ -388,7 +275,7 @@
     "name": "Solar Flare",
     "category": "monochromatic",
     "createdAt": "2026-09-15T00:00:00.000Z",
-    "likes": 288,
+    "likes": 353,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -442,7 +329,7 @@
     "name": "Matcha Cream",
     "category": "complementary",
     "createdAt": "2026-09-14T00:00:00.000Z",
-    "likes": 281,
+    "likes": 385,
     "tags": [
       "complementary",
       "vibrant",
@@ -496,7 +383,7 @@
     "name": "Ocean Abyss",
     "category": "analogous",
     "createdAt": "2026-09-13T00:00:00.000Z",
-    "likes": 471,
+    "likes": 331,
     "tags": [
       "analogous",
       "vibrant",
@@ -604,7 +491,7 @@
     "name": "Earthy Terracotta",
     "category": "tetradic",
     "createdAt": "2026-09-11T00:00:00.000Z",
-    "likes": 297,
+    "likes": 359,
     "tags": [
       "tetradic",
       "vibrant",
@@ -658,7 +545,7 @@
     "name": "Tokyo Sunset",
     "category": "monochromatic",
     "createdAt": "2026-09-10T00:00:00.000Z",
-    "likes": 226,
+    "likes": 376,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -712,7 +599,7 @@
     "name": "Lilac Twilight",
     "category": "complementary",
     "createdAt": "2026-09-09T00:00:00.000Z",
-    "likes": 299,
+    "likes": 425,
     "tags": [
       "complementary",
       "vibrant",
@@ -766,7 +653,7 @@
     "name": "Retro Arcade",
     "category": "analogous",
     "createdAt": "2026-09-08T00:00:00.000Z",
-    "likes": 269,
+    "likes": 316,
     "tags": [
       "analogous",
       "vibrant",
@@ -820,7 +707,7 @@
     "name": "Emerald Grove",
     "category": "triadic",
     "createdAt": "2026-09-07T00:00:00.000Z",
-    "likes": 411,
+    "likes": 427,
     "tags": [
       "triadic",
       "vibrant",
@@ -874,7 +761,7 @@
     "name": "Coral Lagoon",
     "category": "tetradic",
     "createdAt": "2026-09-06T00:00:00.000Z",
-    "likes": 467,
+    "likes": 406,
     "tags": [
       "tetradic",
       "vibrant",
@@ -928,7 +815,7 @@
     "name": "Vaporwave Dusk",
     "category": "monochromatic",
     "createdAt": "2026-09-05T00:00:00.000Z",
-    "likes": 413,
+    "likes": 435,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -982,7 +869,7 @@
     "name": "Galactic Nebula",
     "category": "complementary",
     "createdAt": "2026-09-04T00:00:00.000Z",
-    "likes": 237,
+    "likes": 358,
     "tags": [
       "complementary",
       "vibrant",
@@ -1036,7 +923,7 @@
     "name": "Autumn Hearth",
     "category": "analogous",
     "createdAt": "2026-09-03T00:00:00.000Z",
-    "likes": 283,
+    "likes": 473,
     "tags": [
       "analogous",
       "vibrant",
@@ -1090,7 +977,7 @@
     "name": "Alpine Blossom",
     "category": "triadic",
     "createdAt": "2026-09-02T00:00:00.000Z",
-    "likes": 383,
+    "likes": 392,
     "tags": [
       "triadic",
       "vibrant",
@@ -1144,7 +1031,7 @@
     "name": "Golden Hour",
     "category": "tetradic",
     "createdAt": "2026-09-01T00:00:00.000Z",
-    "likes": 440,
+    "likes": 263,
     "tags": [
       "tetradic",
       "vibrant",
@@ -1198,7 +1085,7 @@
     "name": "Deep Velocity",
     "category": "monochromatic",
     "createdAt": "2026-08-31T00:00:00.000Z",
-    "likes": 354,
+    "likes": 221,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -1252,7 +1139,7 @@
     "name": "Cerulean Bloom",
     "category": "complementary",
     "createdAt": "2026-08-30T00:00:00.000Z",
-    "likes": 419,
+    "likes": 426,
     "tags": [
       "complementary",
       "vibrant",
@@ -1306,7 +1193,7 @@
     "name": "Pistachio Glow",
     "category": "analogous",
     "createdAt": "2026-08-29T00:00:00.000Z",
-    "likes": 218,
+    "likes": 273,
     "tags": [
       "analogous",
       "vibrant",
@@ -1360,7 +1247,7 @@
     "name": "Citrus Splash",
     "category": "triadic",
     "createdAt": "2026-08-28T00:00:00.000Z",
-    "likes": 315,
+    "likes": 293,
     "tags": [
       "triadic",
       "modern"
@@ -1413,7 +1300,7 @@
     "name": "Moonlit Horizon",
     "category": "tetradic",
     "createdAt": "2026-08-27T00:00:00.000Z",
-    "likes": 447,
+    "likes": 309,
     "tags": [
       "tetradic",
       "vibrant",
@@ -1467,7 +1354,7 @@
     "name": "Lavender Haze",
     "category": "monochromatic",
     "createdAt": "2026-08-26T00:00:00.000Z",
-    "likes": 447,
+    "likes": 360,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -1521,7 +1408,7 @@
     "name": "Saffron Silk",
     "category": "complementary",
     "createdAt": "2026-08-25T00:00:00.000Z",
-    "likes": 258,
+    "likes": 283,
     "tags": [
       "complementary",
       "vibrant",
@@ -1575,7 +1462,7 @@
     "name": "Tropical Breeze",
     "category": "analogous",
     "createdAt": "2026-08-24T00:00:00.000Z",
-    "likes": 300,
+    "likes": 430,
     "tags": [
       "analogous",
       "modern"
@@ -1628,7 +1515,7 @@
     "name": "Onyx Solitude",
     "category": "triadic",
     "createdAt": "2026-08-23T00:00:00.000Z",
-    "likes": 441,
+    "likes": 243,
     "tags": [
       "triadic",
       "vibrant",
@@ -1682,7 +1569,7 @@
     "name": "Hyperpop Energy",
     "category": "tetradic",
     "createdAt": "2026-08-22T00:00:00.000Z",
-    "likes": 297,
+    "likes": 300,
     "tags": [
       "tetradic",
       "vibrant",
@@ -1736,7 +1623,7 @@
     "name": "Zen Bamboo",
     "category": "monochromatic",
     "createdAt": "2026-08-21T00:00:00.000Z",
-    "likes": 431,
+    "likes": 331,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -1790,7 +1677,7 @@
     "name": "Amber Horizon",
     "category": "complementary",
     "createdAt": "2026-08-20T00:00:00.000Z",
-    "likes": 431,
+    "likes": 368,
     "tags": [
       "complementary",
       "modern"
@@ -1843,7 +1730,7 @@
     "name": "Monochrome Elegance",
     "category": "analogous",
     "createdAt": "2026-08-19T00:00:00.000Z",
-    "likes": 238,
+    "likes": 273,
     "tags": [
       "analogous",
       "vibrant",
@@ -1897,7 +1784,7 @@
     "name": "Starlight Glade",
     "category": "triadic",
     "createdAt": "2026-08-18T00:00:00.000Z",
-    "likes": 233,
+    "likes": 396,
     "tags": [
       "triadic",
       "vibrant",
@@ -1951,7 +1838,7 @@
     "name": "Prism Mirage",
     "category": "tetradic",
     "createdAt": "2026-08-17T00:00:00.000Z",
-    "likes": 294,
+    "likes": 395,
     "tags": [
       "tetradic",
       "vibrant",
@@ -2005,7 +1892,7 @@
     "name": "Volcanic Fire",
     "category": "monochromatic",
     "createdAt": "2026-08-16T00:00:00.000Z",
-    "likes": 410,
+    "likes": 358,
     "tags": [
       "monochromatic",
       "vibrant",
@@ -2059,7 +1946,7 @@
     "name": "Pacific Cascade",
     "category": "complementary",
     "createdAt": "2026-08-15T00:00:00.000Z",
-    "likes": 257,
+    "likes": 277,
     "tags": [
       "complementary",
       "vibrant",
