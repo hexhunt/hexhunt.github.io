@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import { PaletteGrid } from '../components/PaletteGrid';
+import { useTranslations } from '../i18n/utils';
+
+const currentLang = 'en';
+const t = useTranslations(currentLang);
+---
+
+<Layout
+  title={t('site.title')}
+  description={t('site.description')}
+  lang={currentLang}
+>
+  <Hero currentLang={currentLang} />
+  <PaletteGrid client:load currentLang={currentLang} />
+</Layout>

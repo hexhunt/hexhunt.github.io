@@ -1,0 +1,139 @@
+---
+import { useTranslations } from '../i18n/utils';
+import type { SupportedLocale } from '../i18n/ui';
+
+interface Props {
+  currentLang: SupportedLocale;
+}
+
+const { currentLang } = Astro.props;
+const t = useTranslations(currentLang);
+const currentYear = new Date().getFullYear();
+
+const harmoniesInfo = [
+  {
+    name: 'Complementary',
+    angle: '180°',
+    desc: 'Opposites on the color wheel. Maximum contrast and vibrant energy for striking call-to-actions.',
+    colors: ['#30AFFF', '#FF8030'],
+  },
+  {
+    name: 'Analogous',
+    angle: '±30°',
+    desc: 'Adjacent hues on the color wheel. Creates serene, naturally cohesive and comfortable schemes.',
+    colors: ['#30AFFF', '#92EEFF', '#D8FFC5'],
+  },
+  {
+    name: 'Triadic',
+    angle: '120°',
+    desc: 'Equidistant triangle around the wheel. Offers vibrant harmony while maintaining visual balance.',
+    colors: ['#30AFFF', '#FF3092', '#FFD830'],
+  },
+  {
+    name: 'Tetradic',
+    angle: '90° / 60°',
+    desc: 'Two complementary pairs. Rich, nuanced, and offers endless versatility across UI layers.',
+    colors: ['#30AFFF', '#92EEFF', '#FFAF30', '#FF3092'],
+  },
+  {
+    name: 'Monochromatic',
+    angle: '0°',
+    desc: 'Single hue across calibrated saturation and lightness variations. Clean, sleek, and timeless.',
+    colors: ['#0C4A6E', '#0284C7', '#38BDF8', '#E0F2FE'],
+  },
+];
+---
+
+<footer class="mt-auto border-t border-[#C4F7CA]/80 dark:border-slate-800 bg-white/50 dark:bg-slate-950/70 backdrop-blur-md transition-colors duration-200">
+  <!-- Color Theory Section -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-12 pb-8">
+    <div class="mb-8">
+      <div class="flex items-center gap-2 mb-2">
+        <span class="w-2.5 h-2.5 rounded-full bg-[#30AFFF]"></span>
+        <h3 class="text-sm font-bold uppercase tracking-wider text-slate-800 dark:text-slate-200">
+          Color Theory & Algorithmic Harmonies
+        </h3>
+      </div>
+      <p class="text-xs sm:text-sm text-slate-500 dark:text-slate-400 max-w-2xl">
+        Every palette on HexHunt is mathematically computed via HSL color space algorithms to guarantee visual balance, high contrast, and accessibility compliance.
+      </p>
+    </div>
+
+    <!-- Harmony Cards Grid -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3.5 mb-12">
+      {harmoniesInfo.map((harmony) => (
+        <div class="p-3.5 rounded-xl bg-slate-50/80 dark:bg-slate-900/60 border border-[#C4F7CA]/60 dark:border-slate-800/80 transition-all hover:border-[#30AFFF]/40 hover:shadow-sm">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-bold text-slate-900 dark:text-white">{harmony.name}</span>
+            <span class="text-[10px] font-mono font-medium px-1.5 py-0.5 rounded bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700">
+              {harmony.angle}
+            </span>
+          </div>
+          <div class="flex h-2.5 rounded-full overflow-hidden mb-2.5 gap-0.5 shadow-inner">
+            {harmony.colors.map((c) => (
+              <div class="flex-1 h-full" style={`background-color: ${c}`} title={c}></div>
+            ))}
+          </div>
+          <p class="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed">
+            {harmony.desc}
+          </p>
+        </div>
+      ))}
+    </div>
+
+    <!-- Bottom Info & Brand Credits -->
+    <div class="pt-8 border-t border-slate-200/80 dark:border-slate-800/80 flex flex-col md:flex-row items-center justify-between gap-6 text-xs text-slate-500 dark:text-slate-400">
+      
+      <!-- Brand & Tagline -->
+      <div class="flex flex-col sm:flex-row items-center gap-3 text-center sm:text-left">
+        <div class="flex items-center gap-2">
+          <div class="w-6 h-6 rounded-lg bg-slate-900 flex items-center justify-center border border-[#C4F7CA]">
+            <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none">
+              <path d="M12 2L20.66 7V17L12 22L3.34 17V7L12 2Z" stroke="#30AFFF" stroke-width="2.5" />
+            </svg>
+          </div>
+          <span class="font-bold text-slate-800 dark:text-slate-200">HexHunt</span>
+        </div>
+        <span class="hidden sm:inline text-slate-300 dark:text-slate-700">•</span>
+        <span>{t('footer.tagline')}</span>
+      </div>
+
+      <!-- Links & Support -->
+      <div class="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+        <a
+          href="https://buymeacoffee.com/kisharadilz"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-1.5 font-semibold text-[#30AFFF] hover:text-[#92EEFF] transition-colors"
+        >
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 8h1a4 4 0 0 1 0 8h-1"></path>
+            <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path>
+            <line x1="6" y1="1" x2="6" y2="4"></line>
+            <line x1="10" y1="1" x2="10" y2="4"></line>
+            <line x1="14" y1="1" x2="14" y2="4"></line>
+          </svg>
+          <span>{t('footer.support')}</span>
+        </a>
+
+        <a
+          href="https://github.com/hexhunt/hexhunt.github.io"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-slate-900 dark:hover:text-white transition-colors"
+        >
+          GitHub Repository
+        </a>
+      </div>
+
+    </div>
+
+    <!-- Copyright & Tech Badge -->
+    <div class="mt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] text-slate-400 dark:text-slate-500">
+      <p>© {currentYear} HexHunt. {t('footer.rights')}</p>
+      <p class="flex items-center gap-1">
+        <span>{t('footer.madeWith')}</span>
+      </p>
+    </div>
+  </div>
+</footer>

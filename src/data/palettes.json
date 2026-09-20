@@ -1,0 +1,2051 @@
+[
+  {
+    "id": "pal-mu9ae19o",
+    "name": "Onyx Solitude Sep 20",
+    "category": "analogous",
+    "createdAt": "2026-09-20T03:58:46.763Z",
+    "likes": 0,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#72DA9A",
+        "hsl": [
+          143,
+          58,
+          65
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#29D6C2",
+        "hsl": [
+          173,
+          68,
+          50
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1C77B0",
+        "hsl": [
+          203,
+          73,
+          40
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#1E2662",
+        "hsl": [
+          233,
+          53,
+          25
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-hexhunt-signature",
+    "name": "HexHunt Cyan & Mint",
+    "category": "analogous",
+    "createdAt": "2026-09-20T00:00:00.000Z",
+    "likes": 194,
+    "tags": [
+      "analogous",
+      "signature",
+      "vibrant",
+      "brand",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#30AFFF",
+        "hsl": [
+          203,
+          100,
+          59
+        ],
+        "name": "Brand Primary Blue",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#92EEFF",
+        "hsl": [
+          190,
+          100,
+          79
+        ],
+        "name": "Brand Cyan Glow",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D8FFC5",
+        "hsl": [
+          100,
+          100,
+          88
+        ],
+        "name": "Mint Sparkle",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#C4F7CA",
+        "hsl": [
+          127,
+          81,
+          87
+        ],
+        "name": "Pastel Border Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-aurora-borealis-1",
+    "name": "Aurora Borealis",
+    "category": "complementary",
+    "createdAt": "2026-09-19T00:00:00.000Z",
+    "likes": 23,
+    "tags": [
+      "complementary",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#B14425",
+        "hsl": [
+          13,
+          65,
+          42
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D19585",
+        "hsl": [
+          13,
+          45,
+          67
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#14748F",
+        "hsl": [
+          193,
+          75,
+          32
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A2C4CD",
+        "hsl": [
+          193,
+          30,
+          72
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-cyberpunk-neon-2",
+    "name": "Cyberpunk Neon",
+    "category": "analogous",
+    "createdAt": "2026-09-18T00:00:00.000Z",
+    "likes": 123,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DA9E62",
+        "hsl": [
+          30,
+          62,
+          62
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#CECE22",
+        "hsl": [
+          60,
+          72,
+          47
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#5EA716",
+        "hsl": [
+          90,
+          77,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#185818",
+        "hsl": [
+          120,
+          57,
+          22
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-nordic-frost-3",
+    "name": "Nordic Frost",
+    "category": "triadic",
+    "createdAt": "2026-09-17T00:00:00.000Z",
+    "likes": 109,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#4EE524",
+        "hsl": [
+          107,
+          79,
+          52
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4D70EF",
+        "hsl": [
+          227,
+          84,
+          62
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9F1D39",
+        "hsl": [
+          347,
+          69,
+          37
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E6F3E3",
+        "hsl": [
+          107,
+          39,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-desert-mirage-4",
+    "name": "Desert Mirage",
+    "category": "tetradic",
+    "createdAt": "2026-09-16T00:00:00.000Z",
+    "likes": 97,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#33F09E",
+        "hsl": [
+          154,
+          86,
+          57
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#85B1EA",
+        "hsl": [
+          214,
+          71,
+          72
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#EA0669",
+        "hsl": [
+          334,
+          95,
+          47
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5E8D6",
+        "hsl": [
+          34,
+          61,
+          90
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-solar-flare-5",
+    "name": "Solar Flare",
+    "category": "monochromatic",
+    "createdAt": "2026-09-15T00:00:00.000Z",
+    "likes": 29,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#0579B8",
+        "hsl": [
+          201,
+          95,
+          37
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#44B9F8",
+        "hsl": [
+          201,
+          93,
+          62
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9BD4F3",
+        "hsl": [
+          201,
+          78,
+          78
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E3F0F8",
+        "hsl": [
+          201,
+          58,
+          93
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-matcha-cream-6",
+    "name": "Matcha Cream",
+    "category": "complementary",
+    "createdAt": "2026-09-14T00:00:00.000Z",
+    "likes": 24,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#3420B6",
+        "hsl": [
+          248,
+          70,
+          42
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#8C81D5",
+        "hsl": [
+          248,
+          50,
+          67
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#819310",
+        "hsl": [
+          68,
+          80,
+          32
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CAD19F",
+        "hsl": [
+          68,
+          35,
+          72
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-ocean-abyss-7",
+    "name": "Ocean Abyss",
+    "category": "analogous",
+    "createdAt": "2026-09-13T00:00:00.000Z",
+    "likes": 120,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#935DDF",
+        "hsl": [
+          265,
+          67,
+          62
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#C51CD4",
+        "hsl": [
+          295,
+          77,
+          47
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#AC116B",
+        "hsl": [
+          325,
+          82,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#5B151B",
+        "hsl": [
+          355,
+          62,
+          22
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-electric-orchid-8",
+    "name": "Electric Orchid",
+    "category": "triadic",
+    "createdAt": "2026-09-12T00:00:00.000Z",
+    "likes": 84,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#EB1E5B",
+        "hsl": [
+          342,
+          84,
+          52
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7CF448",
+        "hsl": [
+          102,
+          89,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1942A4",
+        "hsl": [
+          222,
+          74,
+          37
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F4E2E7",
+        "hsl": [
+          342,
+          44,
+          92
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-earthy-terracotta-9",
+    "name": "Earthy Terracotta",
+    "category": "tetradic",
+    "createdAt": "2026-09-11T00:00:00.000Z",
+    "likes": 113,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#F58E2E",
+        "hsl": [
+          29,
+          91,
+          57
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#B9EE81",
+        "hsl": [
+          89,
+          76,
+          72
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#067CEA",
+        "hsl": [
+          209,
+          95,
+          47
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5D5F6",
+        "hsl": [
+          269,
+          66,
+          90
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-tokyo-sunset-10",
+    "name": "Tokyo Sunset",
+    "category": "monochromatic",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "likes": 54,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#83AD10",
+        "hsl": [
+          76,
+          83,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#BDE05C",
+        "hsl": [
+          76,
+          68,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D5E5A9",
+        "hsl": [
+          76,
+          53,
+          78
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F0F3E7",
+        "hsl": [
+          76,
+          33,
+          93
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-lilac-twilight-11",
+    "name": "Lilac Twilight",
+    "category": "complementary",
+    "createdAt": "2026-09-09T00:00:00.000Z",
+    "likes": 120,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#1BBB23",
+        "hsl": [
+          123,
+          75,
+          42
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7DD981",
+        "hsl": [
+          123,
+          55,
+          67
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#970C90",
+        "hsl": [
+          303,
+          85,
+          32
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D49BD1",
+        "hsl": [
+          303,
+          40,
+          72
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-retro-arcade-12",
+    "name": "Retro Arcade",
+    "category": "analogous",
+    "createdAt": "2026-09-08T00:00:00.000Z",
+    "likes": 44,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#58E487",
+        "hsl": [
+          140,
+          72,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#16DAB9",
+        "hsl": [
+          170,
+          82,
+          47
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#0C7AB0",
+        "hsl": [
+          200,
+          87,
+          37
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#131F5E",
+        "hsl": [
+          230,
+          67,
+          22
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-emerald-grove-13",
+    "name": "Emerald Grove",
+    "category": "triadic",
+    "createdAt": "2026-09-07T00:00:00.000Z",
+    "likes": 31,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#186BF2",
+        "hsl": [
+          217,
+          89,
+          52
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5478A",
+        "hsl": [
+          337,
+          90,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#4DA914",
+        "hsl": [
+          97,
+          79,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E1E8F5",
+        "hsl": [
+          217,
+          49,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-coral-lagoon-14",
+    "name": "Coral Lagoon",
+    "category": "tetradic",
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "likes": 61,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#8349DA",
+        "hsl": [
+          264,
+          66,
+          57
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DC93BF",
+        "hsl": [
+          324,
+          51,
+          72
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#8AD31D",
+        "hsl": [
+          84,
+          76,
+          47
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#DBF0E3",
+        "hsl": [
+          144,
+          41,
+          90
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-vaporwave-dusk-15",
+    "name": "Vaporwave Dusk",
+    "category": "monochromatic",
+    "createdAt": "2026-09-05T00:00:00.000Z",
+    "likes": 86,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#B10B93",
+        "hsl": [
+          311,
+          88,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E557CB",
+        "hsl": [
+          311,
+          73,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E7A6DC",
+        "hsl": [
+          311,
+          58,
+          78
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F4E6F1",
+        "hsl": [
+          311,
+          38,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-galactic-nebula-16",
+    "name": "Galactic Nebula",
+    "category": "complementary",
+    "createdAt": "2026-09-04T00:00:00.000Z",
+    "likes": 58,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#C1151B",
+        "hsl": [
+          358,
+          80,
+          42
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DD787C",
+        "hsl": [
+          358,
+          60,
+          67
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "light"
+      },
+      {
+        "hex": "#089B96",
+        "hsl": [
+          178,
+          90,
+          32
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#97D8D6",
+        "hsl": [
+          178,
+          45,
+          72
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-autumn-hearth-17",
+    "name": "Autumn Hearth",
+    "category": "analogous",
+    "createdAt": "2026-09-03T00:00:00.000Z",
+    "likes": 86,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#E97953",
+        "hsl": [
+          15,
+          77,
+          62
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E0AC10",
+        "hsl": [
+          45,
+          87,
+          47
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#8AB508",
+        "hsl": [
+          75,
+          92,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#246010",
+        "hsl": [
+          105,
+          72,
+          22
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-alpine-blossom-18",
+    "name": "Alpine Blossom",
+    "category": "triadic",
+    "createdAt": "2026-09-02T00:00:00.000Z",
+    "likes": 64,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#7DF812",
+        "hsl": [
+          92,
+          94,
+          52
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4798F5",
+        "hsl": [
+          212,
+          90,
+          62
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#AE0F59",
+        "hsl": [
+          332,
+          84,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EAF6E0",
+        "hsl": [
+          92,
+          54,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-golden-hour-19",
+    "name": "Golden Hour",
+    "category": "tetradic",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "likes": 113,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#43DF75",
+        "hsl": [
+          139,
+          71,
+          57
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#90C6E0",
+        "hsl": [
+          199,
+          56,
+          72
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D9179B",
+        "hsl": [
+          319,
+          81,
+          47
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F1E1DA",
+        "hsl": [
+          19,
+          46,
+          90
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-deep-velocity-20",
+    "name": "Deep Velocity",
+    "category": "monochromatic",
+    "createdAt": "2026-08-31T00:00:00.000Z",
+    "likes": 18,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#07A5B6",
+        "hsl": [
+          186,
+          93,
+          37
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#53DBEA",
+        "hsl": [
+          186,
+          78,
+          62
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#A4E3EA",
+        "hsl": [
+          186,
+          63,
+          78
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E5F3F5",
+        "hsl": [
+          186,
+          43,
+          93
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-cerulean-bloom-21",
+    "name": "Cerulean Bloom",
+    "category": "complementary",
+    "createdAt": "2026-08-30T00:00:00.000Z",
+    "likes": 107,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#1025C6",
+        "hsl": [
+          233,
+          85,
+          42
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7481E2",
+        "hsl": [
+          233,
+          65,
+          67
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9F8D04",
+        "hsl": [
+          53,
+          95,
+          32
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DBD394",
+        "hsl": [
+          53,
+          50,
+          72
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-pistachio-glow-22",
+    "name": "Pistachio Glow",
+    "category": "analogous",
+    "createdAt": "2026-08-29T00:00:00.000Z",
+    "likes": 46,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#694FEE",
+        "hsl": [
+          250,
+          82,
+          62
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9D0AE6",
+        "hsl": [
+          280,
+          92,
+          47
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#B8059A",
+        "hsl": [
+          310,
+          95,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#630D2A",
+        "hsl": [
+          340,
+          77,
+          22
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-citrus-splash-23",
+    "name": "Citrus Splash",
+    "category": "triadic",
+    "createdAt": "2026-08-28T00:00:00.000Z",
+    "likes": 93,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#D9308D",
+        "hsl": [
+          327,
+          69,
+          52
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A5E656",
+        "hsl": [
+          87,
+          74,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#276496",
+        "hsl": [
+          207,
+          59,
+          37
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F1E5EB",
+        "hsl": [
+          327,
+          29,
+          92
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-moonlit-horizon-24",
+    "name": "Moonlit Horizon",
+    "category": "tetradic",
+    "createdAt": "2026-08-27T00:00:00.000Z",
+    "likes": 45,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#E5653E",
+        "hsl": [
+          14,
+          76,
+          57
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CFE38C",
+        "hsl": [
+          74,
+          61,
+          72
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#11AFDF",
+        "hsl": [
+          194,
+          86,
+          47
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DFD8F3",
+        "hsl": [
+          254,
+          51,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-lavender-haze-25",
+    "name": "Lavender Haze",
+    "category": "monochromatic",
+    "createdAt": "2026-08-26T00:00:00.000Z",
+    "likes": 119,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#B5B805",
+        "hsl": [
+          61,
+          95,
+          37
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#ECEF4E",
+        "hsl": [
+          61,
+          83,
+          62
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#ECEDA1",
+        "hsl": [
+          61,
+          68,
+          78
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F5F6E5",
+        "hsl": [
+          61,
+          48,
+          93
+        ],
+        "name": "Sunlight Glow",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-saffron-silk-26",
+    "name": "Saffron Silk",
+    "category": "complementary",
+    "createdAt": "2026-08-25T00:00:00.000Z",
+    "likes": 80,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#31CB0B",
+        "hsl": [
+          108,
+          90,
+          42
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#88E670",
+        "hsl": [
+          108,
+          70,
+          67
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#80049F",
+        "hsl": [
+          288,
+          95,
+          32
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CF90DF",
+        "hsl": [
+          288,
+          55,
+          72
+        ],
+        "name": "Electric Violet",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-tropical-breeze-27",
+    "name": "Tropical Breeze",
+    "category": "analogous",
+    "createdAt": "2026-08-24T00:00:00.000Z",
+    "likes": 48,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#67D570",
+        "hsl": [
+          125,
+          57,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#28C885",
+        "hsl": [
+          155,
+          67,
+          47
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1A97A2",
+        "hsl": [
+          185,
+          72,
+          37
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#1B3355",
+        "hsl": [
+          215,
+          52,
+          22
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-onyx-solitude-28",
+    "name": "Onyx Solitude",
+    "category": "triadic",
+    "createdAt": "2026-08-23T00:00:00.000Z",
+    "likes": 111,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#2A9DDF",
+        "hsl": [
+          202,
+          74,
+          52
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EB52B3",
+        "hsl": [
+          322,
+          79,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#6E9B22",
+        "hsl": [
+          82,
+          64,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E4ECF2",
+        "hsl": [
+          202,
+          34,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-hyperpop-energy-29",
+    "name": "Hyperpop Energy",
+    "category": "tetradic",
+    "createdAt": "2026-08-22T00:00:00.000Z",
+    "likes": 25,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#5339EA",
+        "hsl": [
+          249,
+          81,
+          57
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E788D9",
+        "hsl": [
+          309,
+          66,
+          72
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#C4E50B",
+        "hsl": [
+          69,
+          91,
+          47
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D7F4DC",
+        "hsl": [
+          129,
+          56,
+          90
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-zen-bamboo-30",
+    "name": "Zen Bamboo",
+    "category": "monochromatic",
+    "createdAt": "2026-08-21T00:00:00.000Z",
+    "likes": 91,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#AC05B8",
+        "hsl": [
+          296,
+          95,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E849F3",
+        "hsl": [
+          296,
+          88,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EA9EF0",
+        "hsl": [
+          296,
+          73,
+          78
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F5E4F7",
+        "hsl": [
+          296,
+          53,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-amber-horizon-31",
+    "name": "Amber Horizon",
+    "category": "complementary",
+    "createdAt": "2026-08-20T00:00:00.000Z",
+    "likes": 36,
+    "tags": [
+      "complementary",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#B1254D",
+        "hsl": [
+          343,
+          65,
+          42
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D1859A",
+        "hsl": [
+          343,
+          45,
+          67
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#148F6C",
+        "hsl": [
+          163,
+          75,
+          32
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A2CDC1",
+        "hsl": [
+          163,
+          30,
+          72
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-monochrome-elegance-32",
+    "name": "Monochrome Elegance",
+    "category": "analogous",
+    "createdAt": "2026-08-19T00:00:00.000Z",
+    "likes": 97,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DA6262",
+        "hsl": [
+          0,
+          62,
+          62
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CE7822",
+        "hsl": [
+          30,
+          72,
+          47
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A7A716",
+        "hsl": [
+          60,
+          77,
+          37
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#385818",
+        "hsl": [
+          90,
+          57,
+          22
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
+    "id": "pal-starlight-glade-33",
+    "name": "Starlight Glade",
+    "category": "triadic",
+    "createdAt": "2026-08-18T00:00:00.000Z",
+    "likes": 70,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#AFE524",
+        "hsl": [
+          77,
+          79,
+          52
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4DC1EF",
+        "hsl": [
+          197,
+          84,
+          62
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9F1D7B",
+        "hsl": [
+          317,
+          69,
+          37
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EEF3E3",
+        "hsl": [
+          77,
+          39,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-prism-mirage-34",
+    "name": "Prism Mirage",
+    "category": "tetradic",
+    "createdAt": "2026-08-17T00:00:00.000Z",
+    "likes": 86,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#33F040",
+        "hsl": [
+          124,
+          86,
+          57
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#85E4EA",
+        "hsl": [
+          184,
+          71,
+          72
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#EA06DB",
+        "hsl": [
+          304,
+          95,
+          47
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5D8D6",
+        "hsl": [
+          4,
+          61,
+          90
+        ],
+        "name": "Blush Rose",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-volcanic-fire-35",
+    "name": "Volcanic Fire",
+    "category": "monochromatic",
+    "createdAt": "2026-08-16T00:00:00.000Z",
+    "likes": 29,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#05B89D",
+        "hsl": [
+          171,
+          95,
+          37
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#44F8DD",
+        "hsl": [
+          171,
+          93,
+          62
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9BF3E6",
+        "hsl": [
+          171,
+          78,
+          78
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E3F8F4",
+        "hsl": [
+          171,
+          58,
+          93
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
+    "id": "pal-pacific-cascade-36",
+    "name": "Pacific Cascade",
+    "category": "complementary",
+    "createdAt": "2026-08-15T00:00:00.000Z",
+    "likes": 76,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#2057B6",
+        "hsl": [
+          218,
+          70,
+          42
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#81A0D5",
+        "hsl": [
+          218,
+          50,
+          67
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#936310",
+        "hsl": [
+          38,
+          80,
+          32
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D1BE9F",
+        "hsl": [
+          38,
+          35,
+          72
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+---
+import LanguagePicker from './LanguagePicker.astro';
+import ThemeToggle from './ThemeToggle.astro';
+import { useTranslations, getLocalizedPath } from '../i18n/utils';
+import type { SupportedLocale } from '../i18n/ui';
+
+interface Props {
+  currentLang: SupportedLocale;
+}
+
+const { currentLang } = Astro.props;
+const t = useTranslations(currentLang);
+const homeHref = getLocalizedPath('/', currentLang);
+---
+
+<header class="sticky top-0 z-40 w-full backdrop-blur-md bg-white/85 dark:bg-slate-950/85 border-b border-[#C4F7CA]/70 dark:border-slate-800 transition-colors duration-200">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16 gap-4">
+      
+      <!-- Brand Logo -->
+      <a
+        href={homeHref}
+        class="group flex items-center gap-3 transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-[#30AFFF] rounded-lg py-1 pr-2"
+        aria-label="HexHunt Home"
+      >
+        <div class="relative w-9 h-9 rounded-xl bg-slate-950 dark:bg-slate-900 border border-[#C4F7CA] dark:border-slate-700 flex items-center justify-center shadow-sm group-hover:shadow-[0_0_15px_rgba(48,175,255,0.4)] transition-all duration-300">
+          <!-- Hexagon Icon in Brand Colors -->
+          <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M12 2L20.66 7V17L12 22L3.34 17V7L12 2Z"
+              stroke="#30AFFF"
+              stroke-width="2"
+              stroke-linejoin="round"
+            />
+            <circle cx="12" cy="12" r="3" fill="#D8FFC5" />
+          </svg>
+        </div>
+        <div class="flex flex-col">
+          <div class="flex items-center gap-1.5">
+            <span class="text-xl font-black tracking-tight text-slate-900 dark:text-white">
+              Hex<span class="text-[#30AFFF]">Hunt</span>
+            </span>
+            <span class="hidden md:inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-[#D8FFC5]/70 text-slate-800 dark:bg-[#D8FFC5]/20 dark:text-[#D8FFC5] border border-[#C4F7CA] dark:border-transparent">
+              Daily
+            </span>
+          </div>
+          <span class="hidden sm:block text-[11px] font-medium text-slate-500 dark:text-slate-400 -mt-0.5">
+            Color Harmonies
+          </span>
+        </div>
+      </a>
+
+      <!-- Right Actions: Language, Theme & Support CTA -->
+      <div class="flex items-center gap-2 sm:gap-3">
+        <!-- Language Picker -->
+        <LanguagePicker currentLang={currentLang} />
+
+        <!-- Theme Toggle -->
+        <ThemeToggle />
+
+        <!-- Buy Me a Coffee / Support CTA -->
+        <a
+          href="https://buymeacoffee.com/kisharadilz"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="bg-[#30AFFF] text-white hover:bg-[#92EEFF] hover:text-slate-900 font-bold px-3.5 sm:px-4 py-2 rounded-md transition-all duration-200 flex items-center gap-2 shadow-sm hover:shadow-[0_4px_14px_rgba(48,175,255,0.35)] text-xs sm:text-sm active:scale-95"
+          title={t('nav.supportTitle')}
+        >
+          <!-- Coffee Cup Icon -->
+          <svg
+            class="w-4 h-4 shrink-0"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M18 8h1a4 4 0 0 1 0 8h-1"></path>
+            <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path>
+            <line x1="6" y1="1" x2="6" y2="4"></line>
+            <line x1="10" y1="1" x2="10" y2="4"></line>
+            <line x1="14" y1="1" x2="14" y2="4"></line>
+          </svg>
+          <span class="hidden xs:inline-block whitespace-nowrap">{t('nav.support')}</span>
+          <span class="xs:hidden">Support</span>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</header>
