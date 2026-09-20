@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mu9axvp7",
+    "name": "Galactic Nebula Sep 20",
+    "category": "analogous",
+    "createdAt": "2026-09-20T04:14:12.666Z",
+    "likes": 0,
+    "tags": [
+      "analogous",
+      "dark",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#D2AD51",
+        "hsl": [
+          43,
+          59,
+          57
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#95B521",
+        "hsl": [
+          73,
+          69,
+          42
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#378E15",
+        "hsl": [
+          103,
+          74,
+          32
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#174F23",
+        "hsl": [
+          133,
+          54,
+          20
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mu9ae19o",
     "name": "Onyx Solitude Sep 20",
     "category": "analogous",
