@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mu9blfei",
+    "name": "Vaporwave Dusk Sep 20",
+    "category": "analogous",
+    "createdAt": "2026-09-20T04:32:31.290Z",
+    "likes": 282,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#817ADC",
+        "hsl": [
+          244,
+          58,
+          67
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9031D8",
+        "hsl": [
+          274,
+          68,
+          52
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#B91DAF",
+        "hsl": [
+          304,
+          73,
+          42
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#692040",
+        "hsl": [
+          334,
+          53,
+          27
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mu9b7xs0",
     "name": "Autumn Hearth Sep 20",
     "category": "analogous",
