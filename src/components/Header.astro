@@ -15,15 +15,15 @@ const homeHref = getLocalizedPath('/', currentLang);
 
 <header class="sticky top-0 z-40 w-full backdrop-blur-md bg-white/85 dark:bg-slate-950/85 border-b border-[#C4F7CA]/70 dark:border-slate-800 transition-colors duration-200">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex items-center justify-between h-16 gap-4">
+    <div class="flex items-center justify-between h-16 gap-3 sm:gap-4">
       
       <!-- Brand Logo -->
       <a
         href={homeHref}
-        class="group flex items-center gap-3 transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-[#30AFFF] rounded-lg py-1 pr-2"
+        class="group flex items-center gap-2.5 sm:gap-3 transition-transform duration-200 hover:scale-[1.02] focus:outline-none focus:ring-2 focus:ring-[#30AFFF] rounded-lg py-1 pr-2"
         aria-label="HexHunt Home"
       >
-        <div class="relative w-9 h-9 rounded-xl bg-slate-950 dark:bg-slate-900 border border-[#C4F7CA] dark:border-slate-700 flex items-center justify-center shadow-sm group-hover:shadow-[0_0_15px_rgba(48,175,255,0.4)] transition-all duration-300">
+        <div class="relative w-9 h-9 rounded-xl bg-slate-950 dark:bg-slate-900 border border-[#C4F7CA] dark:border-slate-700 flex items-center justify-center shadow-sm group-hover:shadow-[0_0_15px_rgba(48,175,255,0.4)] transition-all duration-300 shrink-0">
           <!-- Hexagon Icon in Brand Colors -->
           <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
@@ -37,34 +37,35 @@ const homeHref = getLocalizedPath('/', currentLang);
         </div>
         <div class="flex flex-col">
           <div class="flex items-center gap-1.5">
-            <span class="text-xl font-black tracking-tight text-slate-900 dark:text-white">
+            <span class="text-lg sm:text-xl font-black tracking-tight text-slate-900 dark:text-white">
               Hex<span class="text-[#30AFFF]">Hunt</span>
             </span>
-            <span class="hidden md:inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-[#D8FFC5]/70 text-slate-800 dark:bg-[#D8FFC5]/20 dark:text-[#D8FFC5] border border-[#C4F7CA] dark:border-transparent">
+            <span class="hidden lg:inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider bg-[#D8FFC5]/70 text-slate-800 dark:bg-[#D8FFC5]/20 dark:text-[#D8FFC5] border border-[#C4F7CA] dark:border-transparent">
               Daily
             </span>
           </div>
-          <span class="hidden sm:block text-[11px] font-medium text-slate-500 dark:text-slate-400 -mt-0.5">
+          <span class="hidden lg:block text-[11px] font-medium text-slate-500 dark:text-slate-400 -mt-0.5">
             Color Harmonies
           </span>
         </div>
       </a>
 
-      <!-- Right Actions: Language, Theme & Support CTA -->
-      <div class="flex items-center gap-2 sm:gap-3">
-        <!-- Language Picker -->
+      <!-- Right Action Icons: Language, Theme & Support CTA (Icon-Only on Mobile/Tablet, Expanded on Desktop) -->
+      <div class="flex items-center gap-1.5 sm:gap-2 lg:gap-3">
+        <!-- Language Picker Dropdown -->
         <LanguagePicker currentLang={currentLang} />
 
-        <!-- Theme Toggle -->
+        <!-- Theme Toggle Switcher -->
         <ThemeToggle />
 
-        <!-- Buy Me a Coffee / Support CTA -->
+        <!-- Buy Me a Coffee / Support CTA: Icon on Mobile/Tablet, Icon + Text on Desktop -->
         <a
           href="https://buymeacoffee.com/kisharadilz"
           target="_blank"
           rel="noopener noreferrer"
-          class="bg-[#30AFFF] text-white hover:bg-[#92EEFF] hover:text-slate-900 font-bold px-3.5 sm:px-4 py-2 rounded-md transition-all duration-200 flex items-center gap-2 shadow-sm hover:shadow-[0_4px_14px_rgba(48,175,255,0.35)] text-xs sm:text-sm active:scale-95"
+          class="h-9 px-2.5 lg:px-4 rounded-lg bg-[#30AFFF] text-white hover:bg-[#92EEFF] hover:text-slate-900 font-bold transition-all duration-200 flex items-center justify-center gap-2 shadow-sm hover:shadow-[0_4px_14px_rgba(48,175,255,0.35)] text-xs sm:text-sm active:scale-95 shrink-0"
           title={t('nav.supportTitle')}
+          aria-label={t('nav.support')}
         >
           <!-- Coffee Cup Icon -->
           <svg
@@ -82,8 +83,7 @@ const homeHref = getLocalizedPath('/', currentLang);
             <line x1="10" y1="1" x2="10" y2="4"></line>
             <line x1="14" y1="1" x2="14" y2="4"></line>
           </svg>
-          <span class="hidden xs:inline-block whitespace-nowrap">{t('nav.support')}</span>
-          <span class="xs:hidden">Support</span>
+          <span class="hidden lg:inline-block whitespace-nowrap">{t('nav.support')}</span>
         </a>
       </div>
 
