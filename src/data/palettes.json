@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-muam17ah",
+    "name": "Onyx Solitude Sep 21",
+    "category": "triadic",
+    "createdAt": "2026-09-21T02:12:29.609Z",
+    "likes": 245,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#3CD79C",
+        "hsl": [
+          157,
+          66,
+          54
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#B262E4",
+        "hsl": [
+          277,
+          71,
+          64
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9B702C",
+        "hsl": [
+          37,
+          56,
+          39
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5F0EC",
+        "hsl": [
+          157,
+          26,
+          92
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mu9blfei",
     "name": "Vaporwave Dusk Sep 20",
     "category": "analogous",
