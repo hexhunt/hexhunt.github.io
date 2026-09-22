@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muc1nge0",
+    "name": "Volcanic Fire Sep 22",
+    "category": "tetradic",
+    "createdAt": "2026-09-22T02:17:28.247Z",
+    "likes": 284,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#B7ED5A",
+        "hsl": [
+          82,
+          80,
+          64
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#A7ECC0",
+        "hsl": [
+          142,
+          65,
+          79
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#6E20F3",
+        "hsl": [
+          262,
+          90,
+          54
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F4D7E9",
+        "hsl": [
+          322,
+          55,
+          90
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muam17ah",
     "name": "Onyx Solitude Sep 21",
     "category": "triadic",
