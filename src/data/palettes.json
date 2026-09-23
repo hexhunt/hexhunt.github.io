@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mudh3dec",
+    "name": "Pistachio Glow Sep 23",
+    "category": "monochromatic",
+    "createdAt": "2026-09-23T02:17:31.283Z",
+    "likes": 285,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#4B0778",
+        "hsl": [
+          276,
+          89,
+          25
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9221DE",
+        "hsl": [
+          276,
+          74,
+          50
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#B77DDE",
+        "hsl": [
+          276,
+          59,
+          68
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EFE6F4",
+        "hsl": [
+          276,
+          39,
+          93
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muc1nge0",
     "name": "Volcanic Fire Sep 22",
     "category": "tetradic",
