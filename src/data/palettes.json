@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muew2dqi",
+    "name": "Amber Horizon Sep 24",
+    "category": "complementary",
+    "createdAt": "2026-09-24T02:04:25.481Z",
+    "likes": 314,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#ECB051",
+        "hsl": [
+          37,
+          80,
+          62
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F2E2CA",
+        "hsl": [
+          37,
+          60,
+          87
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#166BF3",
+        "hsl": [
+          217,
+          90,
+          52
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E1E8F4",
+        "hsl": [
+          217,
+          45,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mudh3dec",
     "name": "Pistachio Glow Sep 23",
     "category": "monochromatic",
