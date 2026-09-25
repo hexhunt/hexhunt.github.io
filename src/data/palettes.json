@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mugc40p6",
+    "name": "Amber Horizon Sep 25",
+    "category": "analogous",
+    "createdAt": "2026-09-25T02:21:21.929Z",
+    "likes": 297,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#9098EE",
+        "hsl": [
+          235,
+          74,
+          75
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#8B43EF",
+        "hsl": [
+          265,
+          84,
+          60
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DE0EF1",
+        "hsl": [
+          295,
+          89,
+          50
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#971C64",
+        "hsl": [
+          325,
+          69,
+          35
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-muew2dqi",
     "name": "Amber Horizon Sep 24",
     "category": "complementary",
