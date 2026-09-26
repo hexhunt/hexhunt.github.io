@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muhrpdwo",
+    "name": "Nordic Frost Sep 26",
+    "category": "triadic",
+    "createdAt": "2026-09-26T02:25:39.240Z",
+    "likes": 311,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#14CC6D",
+        "hsl": [
+          149,
+          82,
+          44
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#8624F0",
+        "hsl": [
+          269,
+          87,
+          54
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9A5719",
+        "hsl": [
+          29,
+          72,
+          35
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E2F3EA",
+        "hsl": [
+          149,
+          42,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mugc40p6",
     "name": "Amber Horizon Sep 25",
     "category": "analogous",
