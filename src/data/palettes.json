@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muj70lkj",
+    "name": "Amber Horizon Sep 27",
+    "category": "tetradic",
+    "createdAt": "2026-09-27T02:22:02.803Z",
+    "likes": 333,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#382AD5",
+        "hsl": [
+          245,
+          67,
+          50
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D477CC",
+        "hsl": [
+          305,
+          52,
+          65
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A7B517",
+        "hsl": [
+          65,
+          77,
+          40
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#DBF0DD",
+        "hsl": [
+          125,
+          42,
+          90
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muhrpdwo",
     "name": "Nordic Frost Sep 26",
     "category": "triadic",
