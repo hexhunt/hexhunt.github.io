@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mukmli7d",
+    "name": "Tropical Breeze Sep 28",
+    "category": "monochromatic",
+    "createdAt": "2026-09-28T02:25:58.632Z",
+    "likes": 233,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#86035D",
+        "hsl": [
+          319,
+          95,
+          27
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F514AE",
+        "hsl": [
+          319,
+          92,
+          52
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#ED78C8",
+        "hsl": [
+          319,
+          77,
+          70
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F7E3F1",
+        "hsl": [
+          319,
+          57,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muj70lkj",
     "name": "Amber Horizon Sep 27",
     "category": "tetradic",
