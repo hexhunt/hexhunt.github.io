@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mum3l8h4",
+    "name": "Emerald Grove Sep 29",
+    "category": "complementary",
+    "createdAt": "2026-09-29T03:09:25.672Z",
+    "likes": 239,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#4184E1",
+        "hsl": [
+          215,
+          73,
+          57
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#B9CDE9",
+        "hsl": [
+          215,
+          53,
+          82
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#DB8814",
+        "hsl": [
+          35,
+          83,
+          47
+        ],
+        "name": "Burnt Amber",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#EAE0D1",
+        "hsl": [
+          35,
+          38,
+          87
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mukmli7d",
     "name": "Tropical Breeze Sep 28",
     "category": "monochromatic",
