@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-munie6co",
+    "name": "Pacific Cascade Sep 30",
+    "category": "analogous",
+    "createdAt": "2026-09-30T02:51:36.743Z",
+    "likes": 286,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#E99E4E",
+        "hsl": [
+          31,
+          78,
+          61
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D9DD0E",
+        "hsl": [
+          61,
+          88,
+          46
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#59B106",
+        "hsl": [
+          91,
+          93,
+          36
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#0E5D10",
+        "hsl": [
+          121,
+          73,
+          21
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mum3l8h4",
     "name": "Emerald Grove Sep 29",
     "category": "complementary",
