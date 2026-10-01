@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muoy21y0",
+    "name": "Lilac Twilight Oct 1",
+    "category": "triadic",
+    "createdAt": "2026-10-01T02:57:51.192Z",
+    "likes": 276,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#BF18F2",
+        "hsl": [
+          286,
+          89,
+          52
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5CD47",
+        "hsl": [
+          46,
+          90,
+          62
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#14A986",
+        "hsl": [
+          166,
+          79,
+          37
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F0E1F5",
+        "hsl": [
+          286,
+          49,
+          92
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-munie6co",
     "name": "Pacific Cascade Sep 30",
     "category": "analogous",
