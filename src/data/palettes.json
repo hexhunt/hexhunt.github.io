@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muqdl783",
+    "name": "Cerulean Bloom Oct 2",
+    "category": "tetradic",
+    "createdAt": "2026-10-02T03:00:24.914Z",
+    "likes": 351,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#A3EF1F",
+        "hsl": [
+          82,
+          87,
+          53
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#73E89E",
+        "hsl": [
+          142,
+          72,
+          68
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#5205D6",
+        "hsl": [
+          262,
+          95,
+          43
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5D6EA",
+        "hsl": [
+          322,
+          62,
+          90
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muoy21y0",
     "name": "Lilac Twilight Oct 1",
     "category": "triadic",
