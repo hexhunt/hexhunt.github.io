@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mursiztg",
+    "name": "Starlight Glade Oct 3",
+    "category": "monochromatic",
+    "createdAt": "2026-10-03T02:46:22.419Z",
+    "likes": 220,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#840B41",
+        "hsl": [
+          333,
+          85,
+          28
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DB337F",
+        "hsl": [
+          333,
+          70,
+          53
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DE8CB1",
+        "hsl": [
+          333,
+          55,
+          71
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F3E7ED",
+        "hsl": [
+          333,
+          35,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muqdl783",
     "name": "Cerulean Bloom Oct 2",
     "category": "tetradic",
