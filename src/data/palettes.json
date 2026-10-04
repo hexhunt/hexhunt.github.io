@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mut92d30",
+    "name": "Amber Horizon Oct 4",
+    "category": "complementary",
+    "createdAt": "2026-10-04T03:17:06.107Z",
+    "likes": 320,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#3BD8A4",
+        "hsl": [
+          160,
+          67,
+          54
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#B0E3D2",
+        "hsl": [
+          160,
+          47,
+          79
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#C71A53",
+        "hsl": [
+          340,
+          77,
+          44
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E3C9D2",
+        "hsl": [
+          340,
+          32,
+          84
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mursiztg",
     "name": "Starlight Glade Oct 3",
     "category": "monochromatic",
