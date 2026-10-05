@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-muunng38",
+    "name": "Lavender Haze Oct 5",
+    "category": "analogous",
+    "createdAt": "2026-10-05T02:53:10.580Z",
+    "likes": 321,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DD7E8B",
+        "hsl": [
+          352,
+          58,
+          68
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D97136",
+        "hsl": [
+          22,
+          68,
+          53
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "light"
+      },
+      {
+        "hex": "#BEA81E",
+        "hsl": [
+          52,
+          73,
+          43
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#516D22",
+        "hsl": [
+          82,
+          53,
+          28
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mut92d30",
     "name": "Amber Horizon Oct 4",
     "category": "complementary",
