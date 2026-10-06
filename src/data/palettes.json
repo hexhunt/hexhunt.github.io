@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-muw4vqrb",
+    "name": "Saffron Silk Oct 6",
+    "category": "triadic",
+    "createdAt": "2026-10-06T03:43:17.303Z",
+    "likes": 332,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#C67D24",
+        "hsl": [
+          33,
+          69,
+          46
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#3CE297",
+        "hsl": [
+          153,
+          74,
+          56
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#5F258E",
+        "hsl": [
+          273,
+          59,
+          35
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F1EBE5",
+        "hsl": [
+          33,
+          29,
+          92
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muunng38",
     "name": "Lavender Haze Oct 5",
     "category": "analogous",
