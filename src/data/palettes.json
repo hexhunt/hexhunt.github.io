@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muxj5hmg",
+    "name": "Emerald Grove Oct 7",
+    "category": "tetradic",
+    "createdAt": "2026-10-07T03:10:32.823Z",
+    "likes": 322,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#CD0A5E",
+        "hsl": [
+          334,
+          91,
+          42
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E59C3E",
+        "hsl": [
+          34,
+          76,
+          57
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#049F5C",
+        "hsl": [
+          154,
+          95,
+          32
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D5E3F6",
+        "hsl": [
+          214,
+          66,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muw4vqrb",
     "name": "Saffron Silk Oct 6",
     "category": "triadic",
