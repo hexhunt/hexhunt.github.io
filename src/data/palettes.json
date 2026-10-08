@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-muyz5no9",
+    "name": "Earthy Terracotta Oct 8",
+    "category": "monochromatic",
+    "createdAt": "2026-10-08T03:26:20.696Z",
+    "likes": 262,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#03684A",
+        "hsl": [
+          162,
+          95,
+          21
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#15D59C",
+        "hsl": [
+          162,
+          82,
+          46
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#66E1BC",
+        "hsl": [
+          162,
+          67,
+          64
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E5F6F1",
+        "hsl": [
+          162,
+          47,
+          93
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muxj5hmg",
     "name": "Emerald Grove Oct 7",
     "category": "tetradic",
