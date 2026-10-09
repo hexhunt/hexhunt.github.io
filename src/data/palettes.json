@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mv0esole",
+    "name": "Electric Orchid Oct 9",
+    "category": "complementary",
+    "createdAt": "2026-10-09T03:31:55.393Z",
+    "likes": 340,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#6298DF",
+        "hsl": [
+          214,
+          66,
+          63
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D2DFEE",
+        "hsl": [
+          214,
+          46,
+          88
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E2932C",
+        "hsl": [
+          34,
+          76,
+          53
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F1EBE4",
+        "hsl": [
+          34,
+          31,
+          92
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-muyz5no9",
     "name": "Earthy Terracotta Oct 8",
     "category": "monochromatic",
