@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mv1titsk",
+    "name": "Cerulean Bloom Oct 10",
+    "category": "analogous",
+    "createdAt": "2026-10-10T03:11:55.987Z",
+    "likes": 298,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#A38FE0",
+        "hsl": [
+          255,
+          57,
+          72
+        ],
+        "name": "Electric Violet",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#B648DB",
+        "hsl": [
+          285,
+          67,
+          57
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CE22A3",
+        "hsl": [
+          315,
+          72,
+          47
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7C273C",
+        "hsl": [
+          345,
+          52,
+          32
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mv0esole",
     "name": "Electric Orchid Oct 9",
     "category": "complementary",
