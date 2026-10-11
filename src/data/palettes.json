@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mv37zkuy",
+    "name": "Solar Flare Oct 11",
+    "category": "triadic",
+    "createdAt": "2026-10-11T02:44:38.362Z",
+    "likes": 322,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#22B99E",
+        "hsl": [
+          169,
+          69,
+          43
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#BF2EE0",
+        "hsl": [
+          289,
+          74,
+          53
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#8E7B25",
+        "hsl": [
+          49,
+          59,
+          35
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5F1EE",
+        "hsl": [
+          169,
+          29,
+          92
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mv1titsk",
     "name": "Cerulean Bloom Oct 10",
     "category": "analogous",
