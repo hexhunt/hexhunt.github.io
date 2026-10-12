@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mv4o9prq",
+    "name": "Nordic Frost Oct 12",
+    "category": "tetradic",
+    "createdAt": "2026-10-12T03:08:11.317Z",
+    "likes": 247,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#C70F7A",
+        "hsl": [
+          325,
+          86,
+          42
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DF8443",
+        "hsl": [
+          25,
+          71,
+          57
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#049F45",
+        "hsl": [
+          145,
+          95,
+          32
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D6E8F5",
+        "hsl": [
+          205,
+          61,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mv37zkuy",
     "name": "Solar Flare Oct 11",
     "category": "triadic",
