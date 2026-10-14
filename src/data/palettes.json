@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mv7hxq70",
+    "name": "Matcha Cream Oct 14",
+    "category": "complementary",
+    "createdAt": "2026-10-14T02:34:12.827Z",
+    "likes": 318,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#A150E7",
+        "hsl": [
+          272,
+          76,
+          61
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DDC7EF",
+        "hsl": [
+          272,
+          56,
+          86
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#7BEE17",
+        "hsl": [
+          92,
+          86,
+          51
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E7F1DF",
+        "hsl": [
+          92,
+          41,
+          91
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mv66f1vo",
     "name": "Cerulean Bloom Oct 13",
     "category": "monochromatic",
