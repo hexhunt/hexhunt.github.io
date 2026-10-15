@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mv8woj2m",
+    "name": "Tropical Breeze Oct 15",
+    "category": "analogous",
+    "createdAt": "2026-10-15T02:14:44.110Z",
+    "likes": 231,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#ADED92",
+        "hsl": [
+          102,
+          71,
+          75
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#46EC67",
+        "hsl": [
+          132,
+          81,
+          60
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#12EDAB",
+        "hsl": [
+          162,
+          86,
+          50
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1E7D94",
+        "hsl": [
+          192,
+          66,
+          35
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mv7hxq70",
     "name": "Matcha Cream Oct 14",
     "category": "complementary",
