@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mvabtaux",
+    "name": "Ocean Abyss Oct 16",
+    "category": "triadic",
+    "createdAt": "2026-10-16T02:06:07.161Z",
+    "likes": 314,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#30B9D5",
+        "hsl": [
+          190,
+          66,
+          51
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E255CB",
+        "hsl": [
+          310,
+          71,
+          61
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7E8F28",
+        "hsl": [
+          70,
+          56,
+          36
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5EEF0",
+        "hsl": [
+          190,
+          26,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mv8woj2m",
     "name": "Tropical Breeze Oct 15",
     "category": "analogous",
