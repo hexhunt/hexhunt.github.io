@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mvbr14lz",
+    "name": "Ocean Abyss Oct 17",
+    "category": "tetradic",
+    "createdAt": "2026-10-17T01:59:52.726Z",
+    "likes": 239,
+    "tags": [
+      "tetradic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#B927AB",
+        "hsl": [
+          306,
+          65,
+          44
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#CB6D62",
+        "hsl": [
+          6,
+          50,
+          59
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "light"
+      },
+      {
+        "hex": "#169823",
+        "hsl": [
+          126,
+          75,
+          34
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#DBEEF0",
+        "hsl": [
+          186,
+          40,
+          90
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvabtaux",
     "name": "Ocean Abyss Oct 16",
     "category": "triadic",
