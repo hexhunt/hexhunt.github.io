@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvd6fx6y",
+    "name": "Citrus Splash Oct 18",
+    "category": "monochromatic",
+    "createdAt": "2026-10-18T01:59:03.369Z",
+    "likes": 259,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#1411A6",
+        "hsl": [
+          241,
+          81,
+          36
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#5C5ADD",
+        "hsl": [
+          241,
+          66,
+          61
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#ABAAE4",
+        "hsl": [
+          241,
+          51,
+          78
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E8E8F3",
+        "hsl": [
+          241,
+          31,
+          93
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvbr14lz",
     "name": "Ocean Abyss Oct 17",
     "category": "tetradic",
