@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvemi0h2",
+    "name": "Onyx Solitude Oct 19",
+    "category": "complementary",
+    "createdAt": "2026-10-19T02:16:20.966Z",
+    "likes": 258,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#A728F0",
+        "hsl": [
+          278,
+          87,
+          55
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D5AAEE",
+        "hsl": [
+          278,
+          67,
+          80
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#56E006",
+        "hsl": [
+          98,
+          95,
+          45
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D3EDC5",
+        "hsl": [
+          98,
+          52,
+          85
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvd6fx6y",
     "name": "Citrus Splash Oct 18",
     "category": "monochromatic",
