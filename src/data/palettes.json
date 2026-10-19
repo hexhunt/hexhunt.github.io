@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvesxtcl",
+    "name": "Golden Hour Oct 19",
+    "category": "complementary",
+    "createdAt": "2026-10-19T05:16:35.924Z",
+    "likes": 353,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#1FB5BD",
+        "hsl": [
+          183,
+          72,
+          43
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#83D4D8",
+        "hsl": [
+          183,
+          52,
+          68
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#99160F",
+        "hsl": [
+          3,
+          82,
+          33
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D4A3A1",
+        "hsl": [
+          3,
+          37,
+          73
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvemi0h2",
     "name": "Onyx Solitude Oct 19",
     "category": "complementary",
