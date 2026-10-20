@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mvg2g2oz",
+    "name": "Lavender Haze Oct 20",
+    "category": "analogous",
+    "createdAt": "2026-10-20T02:30:30.562Z",
+    "likes": 240,
+    "tags": [
+      "analogous",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DAA772",
+        "hsl": [
+          31,
+          58,
+          65
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D3D629",
+        "hsl": [
+          61,
+          68,
+          50
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#64B01C",
+        "hsl": [
+          91,
+          73,
+          40
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1E621F",
+        "hsl": [
+          121,
+          53,
+          25
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mvesxtcl",
     "name": "Golden Hour Oct 19",
     "category": "complementary",
