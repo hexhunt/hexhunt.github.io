@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvhhof68",
+    "name": "Solar Flare Oct 21",
+    "category": "triadic",
+    "createdAt": "2026-10-21T02:24:40.399Z",
+    "likes": 258,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#0DD3A2",
+        "hsl": [
+          165,
+          88,
+          44
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#BE20F3",
+        "hsl": [
+          285,
+          90,
+          54
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9F7C14",
+        "hsl": [
+          45,
+          78,
+          35
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E1F4EF",
+        "hsl": [
+          165,
+          48,
+          92
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvg2g2oz",
     "name": "Lavender Haze Oct 20",
     "category": "analogous",
