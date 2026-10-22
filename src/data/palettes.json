@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvix71oo",
+    "name": "Volcanic Fire Oct 22",
+    "category": "tetradic",
+    "createdAt": "2026-10-22T02:26:49.799Z",
+    "likes": 340,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#EF4D9B",
+        "hsl": [
+          331,
+          84,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EDC69C",
+        "hsl": [
+          31,
+          69,
+          77
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#12F888",
+        "hsl": [
+          151,
+          94,
+          52
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D6E5F5",
+        "hsl": [
+          211,
+          59,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvhhof68",
     "name": "Solar Flare Oct 21",
     "category": "triadic",
