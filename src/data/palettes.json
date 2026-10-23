@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvkcl98i",
+    "name": "Lilac Twilight Oct 23",
+    "category": "monochromatic",
+    "createdAt": "2026-10-23T02:25:33.186Z",
+    "likes": 231,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#0D4FA5",
+        "hsl": [
+          214,
+          85,
+          35
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#528FE0",
+        "hsl": [
+          214,
+          70,
+          60
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A8C3E6",
+        "hsl": [
+          214,
+          55,
+          78
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E7ECF3",
+        "hsl": [
+          214,
+          35,
+          93
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvix71oo",
     "name": "Volcanic Fire Oct 22",
     "category": "tetradic",
