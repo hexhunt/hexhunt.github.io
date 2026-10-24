@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvlry2t0",
+    "name": "Citrus Splash Oct 24",
+    "category": "complementary",
+    "createdAt": "2026-10-24T02:23:11.796Z",
+    "likes": 353,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#7F67E9",
+        "hsl": [
+          251,
+          75,
+          66
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D6D0F1",
+        "hsl": [
+          251,
+          55,
+          88
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#CBEE2F",
+        "hsl": [
+          71,
+          85,
+          56
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F0F3E2",
+        "hsl": [
+          71,
+          40,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvkcl98i",
     "name": "Lilac Twilight Oct 23",
     "category": "monochromatic",
