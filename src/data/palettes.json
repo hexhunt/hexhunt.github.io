@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvn6xf12",
+    "name": "Solar Flare Oct 25",
+    "category": "analogous",
+    "createdAt": "2026-10-25T02:10:21.397Z",
+    "likes": 299,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#F1F396",
+        "hsl": [
+          61,
+          79,
+          77
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9BF448",
+        "hsl": [
+          91,
+          89,
+          62
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#12F815",
+        "hsl": [
+          121,
+          94,
+          52
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#19A461",
+        "hsl": [
+          151,
+          74,
+          37
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mvlry2t0",
     "name": "Citrus Splash Oct 24",
     "category": "complementary",
