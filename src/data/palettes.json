@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvomecge",
+    "name": "Amber Horizon Oct 26",
+    "category": "triadic",
+    "createdAt": "2026-10-26T02:11:11.630Z",
+    "likes": 358,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#13C3A0",
+        "hsl": [
+          168,
+          82,
+          42
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#C41AEF",
+        "hsl": [
+          288,
+          87,
+          52
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9A8019",
+        "hsl": [
+          48,
+          72,
+          35
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E2F3F0",
+        "hsl": [
+          168,
+          42,
+          92
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvn6xf12",
     "name": "Solar Flare Oct 25",
     "category": "analogous",
