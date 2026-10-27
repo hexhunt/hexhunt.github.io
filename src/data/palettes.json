@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvq35e3l",
+    "name": "Amber Horizon Oct 27",
+    "category": "tetradic",
+    "createdAt": "2026-10-27T02:47:53.504Z",
+    "likes": 278,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#BCE73C",
+        "hsl": [
+          75,
+          78,
+          57
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#8BE5A1",
+        "hsl": [
+          135,
+          63,
+          72
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#430EE1",
+        "hsl": [
+          255,
+          88,
+          47
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F3D8EC",
+        "hsl": [
+          315,
+          53,
+          90
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvomecge",
     "name": "Amber Horizon Oct 26",
     "category": "triadic",
