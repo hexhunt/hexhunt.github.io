@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvriv8ne",
+    "name": "Alpine Blossom Oct 28",
+    "category": "monochromatic",
+    "createdAt": "2026-10-28T02:55:39.914Z",
+    "likes": 229,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#8B6004",
+        "hsl": [
+          41,
+          95,
+          28
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F5B019",
+        "hsl": [
+          41,
+          92,
+          53
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#EECA7C",
+        "hsl": [
+          41,
+          77,
+          71
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F7F1E3",
+        "hsl": [
+          41,
+          57,
+          93
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvq35e3l",
     "name": "Amber Horizon Oct 27",
     "category": "tetradic",
