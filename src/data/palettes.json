@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvsz7s7e",
+    "name": "Desert Mirage Oct 29",
+    "category": "complementary",
+    "createdAt": "2026-10-29T03:21:05.162Z",
+    "likes": 292,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#C0E151",
+        "hsl": [
+          74,
+          71,
+          60
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E3ECC5",
+        "hsl": [
+          74,
+          51,
+          85
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4818E7",
+        "hsl": [
+          254,
+          81,
+          50
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E1DCEF",
+        "hsl": [
+          254,
+          36,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvriv8ne",
     "name": "Alpine Blossom Oct 28",
     "category": "monochromatic",
