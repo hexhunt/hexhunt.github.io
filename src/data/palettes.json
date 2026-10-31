@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvvtm8oa",
+    "name": "Citrus Splash Oct 31",
+    "category": "triadic",
+    "createdAt": "2026-10-31T03:07:40.522Z",
+    "likes": 271,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#21C434",
+        "hsl": [
+          127,
+          71,
+          45
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4935E3",
+        "hsl": [
+          247,
+          76,
+          55
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#903023",
+        "hsl": [
+          7,
+          61,
+          35
+        ],
+        "name": "Velvet Ruby",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E4F1E6",
+        "hsl": [
+          127,
+          31,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvueqh1w",
     "name": "Pistachio Glow Oct 30",
     "category": "analogous",
