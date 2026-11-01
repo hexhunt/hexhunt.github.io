@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvx8v7hs",
+    "name": "Retro Arcade Nov 1",
+    "category": "tetradic",
+    "createdAt": "2026-11-01T03:02:19.311Z",
+    "likes": 213,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#EAEA57",
+        "hsl": [
+          60,
+          78,
+          63
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#A4EAA4",
+        "hsl": [
+          120,
+          63,
+          78
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1E1EF1",
+        "hsl": [
+          240,
+          88,
+          53
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F3D8F3",
+        "hsl": [
+          300,
+          53,
+          90
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvvtm8oa",
     "name": "Citrus Splash Oct 31",
     "category": "triadic",
