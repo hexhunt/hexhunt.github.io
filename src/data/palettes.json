@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mvyop2j5",
+    "name": "Ocean Abyss Nov 2",
+    "category": "monochromatic",
+    "createdAt": "2026-11-02T03:13:12.976Z",
+    "likes": 305,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#96C705",
+        "hsl": [
+          75,
+          95,
+          40
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#CFF953",
+        "hsl": [
+          75,
+          93,
+          65
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#DDF39B",
+        "hsl": [
+          75,
+          78,
+          78
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F2F8E3",
+        "hsl": [
+          75,
+          58,
+          93
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvx8v7hs",
     "name": "Retro Arcade Nov 1",
     "category": "tetradic",
