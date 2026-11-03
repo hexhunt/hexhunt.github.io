@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw09a1so",
+    "name": "Galactic Nebula Nov 3",
+    "category": "complementary",
+    "createdAt": "2026-11-03T05:37:10.296Z",
+    "likes": 345,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#0AEB7E",
+        "hsl": [
+          151,
+          92,
+          48
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#89ECBC",
+        "hsl": [
+          151,
+          72,
+          73
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#BD055E",
+        "hsl": [
+          331,
+          95,
+          38
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E7A7C6",
+        "hsl": [
+          331,
+          57,
+          78
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw06tt4s",
     "name": "Moonlit Horizon Nov 3",
     "category": "complementary",
