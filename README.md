@@ -5,7 +5,7 @@
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB.svg?style=flat&logo=react)](https://react.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-30AFFF.svg)](LICENSE)
-[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?logo=kofi&logoColor=white)](https://ko-fi.com/kishara)
+[![Support on Gumroad](https://img.shields.io/badge/Support-Gumroad-FF90E8.svg?logo=gumroad&logoColor=black)](https://kisharadilshan.gumroad.com/coffee)
 
 > **Live Website:** [https://hexhunt.github.io](https://hexhunt.github.io)  
 > **A 100% serverless, zero-maintenance color discovery platform for visionary UI/UX designers and developers.**
@@ -156,9 +156,9 @@ You can also manually trigger a new release anytime via the **Actions** tab in G
 
 ## ☕ Support the Developer
 
-HexHunt is free and open source. If you love using it in your design and development workflow, please consider supporting me on Ko-fi:
+HexHunt is free and open source. If you love using it in your design and development workflow, please consider buying me a coffee on Gumroad:
 
-👉 **[Support Kishara on Ko-fi](https://ko-fi.com/kishara)**
+👉 **[Support Kishara on Gumroad](https://kisharadilshan.gumroad.com/coffee)**
 
 ---
 
