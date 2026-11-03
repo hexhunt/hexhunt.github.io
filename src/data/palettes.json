@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw06tt4s",
+    "name": "Moonlit Horizon Nov 3",
+    "category": "complementary",
+    "createdAt": "2026-11-03T04:28:33.339Z",
+    "likes": 278,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#E3B40D",
+        "hsl": [
+          47,
+          89,
+          47
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E9D486",
+        "hsl": [
+          47,
+          69,
+          72
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#052CB8",
+        "hsl": [
+          227,
+          95,
+          37
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#A5B2E4",
+        "hsl": [
+          227,
+          54,
+          77
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mvyop2j5",
     "name": "Ocean Abyss Nov 2",
     "category": "monochromatic",
