@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw1ks125",
+    "name": "Ocean Abyss Nov 4",
+    "category": "analogous",
+    "createdAt": "2026-11-04T03:46:51.101Z",
+    "likes": 327,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#73E7CC",
+        "hsl": [
+          166,
+          71,
+          68
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#26B4E8",
+        "hsl": [
+          196,
+          81,
+          53
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#0F3BCC",
+        "hsl": [
+          226,
+          86,
+          43
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#311877",
+        "hsl": [
+          256,
+          66,
+          28
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mw09a1so",
     "name": "Galactic Nebula Nov 3",
     "category": "complementary",
