@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mw30w3ae",
+    "name": "Retro Arcade Nov 5",
+    "category": "triadic",
+    "createdAt": "2026-11-05T04:05:40.645Z",
+    "likes": 311,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DA3EA6",
+        "hsl": [
+          320,
+          68,
+          55
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#BBE765",
+        "hsl": [
+          80,
+          73,
+          65
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#2B7AA1",
+        "hsl": [
+          200,
+          58,
+          40
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F0E5ED",
+        "hsl": [
+          320,
+          28,
+          92
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw1ks125",
     "name": "Ocean Abyss Nov 4",
     "category": "analogous",
