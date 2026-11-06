@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw4g7o74",
+    "name": "Cerulean Bloom Nov 6",
+    "category": "tetradic",
+    "createdAt": "2026-11-06T04:02:21.376Z",
+    "likes": 267,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#62DFA1",
+        "hsl": [
+          150,
+          66,
+          63
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#AAC7E4",
+        "hsl": [
+          210,
+          51,
+          78
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E22C87",
+        "hsl": [
+          330,
+          76,
+          53
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F0E6DB",
+        "hsl": [
+          30,
+          41,
+          90
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw30w3ae",
     "name": "Retro Arcade Nov 5",
     "category": "triadic",
