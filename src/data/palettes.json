@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw5usw6m",
+    "name": "Nordic Frost Nov 7",
+    "category": "monochromatic",
+    "createdAt": "2026-11-07T03:38:32.301Z",
+    "likes": 321,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#6A5806",
+        "hsl": [
+          49,
+          89,
+          22
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D1B01F",
+        "hsl": [
+          49,
+          74,
+          47
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#DAC771",
+        "hsl": [
+          49,
+          59,
+          65
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F4F2E6",
+        "hsl": [
+          49,
+          39,
+          93
+        ],
+        "name": "Sunlight Glow",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw4g7o74",
     "name": "Cerulean Bloom Nov 6",
     "category": "tetradic",
