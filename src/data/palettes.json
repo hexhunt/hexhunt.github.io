@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw7990nm",
+    "name": "Alpine Blossom Nov 8",
+    "category": "complementary",
+    "createdAt": "2026-11-08T03:10:45.394Z",
+    "likes": 315,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#D9E869",
+        "hsl": [
+          67,
+          73,
+          66
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#EDF1D0",
+        "hsl": [
+          67,
+          53,
+          88
+        ],
+        "name": "Sunlight Glow",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4732EC",
+        "hsl": [
+          247,
+          83,
+          56
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5E3F2",
+        "hsl": [
+          247,
+          38,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw5usw6m",
     "name": "Nordic Frost Nov 7",
     "category": "monochromatic",
