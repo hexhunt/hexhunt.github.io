@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mw8pghk5",
+    "name": "Citrus Splash Nov 9",
+    "category": "analogous",
+    "createdAt": "2026-11-09T03:32:13.925Z",
+    "likes": 302,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#5EED74",
+        "hsl": [
+          129,
+          80,
+          65
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#0DF2A2",
+        "hsl": [
+          159,
+          90,
+          50
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#05AAC7",
+        "hsl": [
+          189,
+          95,
+          40
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#103170",
+        "hsl": [
+          219,
+          75,
+          25
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mw7990nm",
     "name": "Alpine Blossom Nov 8",
     "category": "complementary",
