@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwa88b2i",
+    "name": "Onyx Solitude Nov 10",
+    "category": "triadic",
+    "createdAt": "2026-11-10T05:05:31.146Z",
+    "likes": 347,
+    "tags": [
+      "triadic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#D32FF4",
+        "hsl": [
+          290,
+          90,
+          57
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F7DD5F",
+        "hsl": [
+          50,
+          90,
+          67
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#15C1A4",
+        "hsl": [
+          170,
+          80,
+          42
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F1E0F5",
+        "hsl": [
+          290,
+          50,
+          92
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mw8pghk5",
     "name": "Citrus Splash Nov 9",
     "category": "analogous",
