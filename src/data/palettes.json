@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwbklb3l",
+    "name": "Pacific Cascade Nov 11",
+    "category": "tetradic",
+    "createdAt": "2026-11-11T03:39:19.280Z",
+    "likes": 263,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#F759C5",
+        "hsl": [
+          319,
+          91,
+          66
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F3C1AA",
+        "hsl": [
+          19,
+          76,
+          81
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#24F968",
+        "hsl": [
+          139,
+          95,
+          56
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D5ECF6",
+        "hsl": [
+          199,
+          66,
+          90
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwa88b2i",
     "name": "Onyx Solitude Nov 10",
     "category": "triadic",
