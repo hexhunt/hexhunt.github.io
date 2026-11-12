@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwd2giyz",
+    "name": "Lilac Twilight Nov 12",
+    "category": "monochromatic",
+    "createdAt": "2026-11-12T04:47:15.466Z",
+    "likes": 363,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#02585A",
+        "hsl": [
+          181,
+          95,
+          18
+        ],
+        "name": "Teal Depth",
+        "contrast": "light"
+      },
+      {
+        "hex": "#16C2C5",
+        "hsl": [
+          181,
+          80,
+          43
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#5BDADC",
+        "hsl": [
+          181,
+          65,
+          61
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E5F5F5",
+        "hsl": [
+          181,
+          45,
+          93
+        ],
+        "name": "Aqua Vapor",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwbklb3l",
     "name": "Pacific Cascade Nov 11",
     "category": "tetradic",
