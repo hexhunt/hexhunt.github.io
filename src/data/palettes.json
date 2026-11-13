@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mweg5h9a",
+    "name": "Hyperpop Energy Nov 13",
+    "category": "complementary",
+    "createdAt": "2026-11-13T03:58:20.830Z",
+    "likes": 249,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#DE5D17",
+        "hsl": [
+          21,
+          81,
+          48
+        ],
+        "name": "Burnt Amber",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E4AE90",
+        "hsl": [
+          21,
+          61,
+          73
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#097BB9",
+        "hsl": [
+          201,
+          91,
+          38
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#ADCFE1",
+        "hsl": [
+          201,
+          46,
+          78
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwd2giyz",
     "name": "Lilac Twilight Nov 12",
     "category": "monochromatic",
