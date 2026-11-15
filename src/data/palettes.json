@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mwhae248",
+    "name": "Pistachio Glow Nov 15",
+    "category": "triadic",
+    "createdAt": "2026-11-15T03:40:21.943Z",
+    "likes": 210,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#66BE27",
+        "hsl": [
+          95,
+          66,
+          45
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#3B7FDE",
+        "hsl": [
+          215,
+          71,
+          55
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#8B2751",
+        "hsl": [
+          335,
+          56,
+          35
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EAF0E5",
+        "hsl": [
+          95,
+          26,
+          92
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwfvj7mk",
     "name": "Alpine Blossom Nov 14",
     "category": "analogous",
