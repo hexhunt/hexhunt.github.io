@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwk9g8o1",
+    "name": "Coral Lagoon Nov 17",
+    "category": "monochromatic",
+    "createdAt": "2026-11-17T05:37:22.657Z",
+    "likes": 245,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#42025A",
+        "hsl": [
+          284,
+          95,
+          18
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#9716C5",
+        "hsl": [
+          284,
+          80,
+          43
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#BA5BDC",
+        "hsl": [
+          284,
+          65,
+          61
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F1E5F5",
+        "hsl": [
+          284,
+          45,
+          93
+        ],
+        "name": "Lilac Dream",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwhae248",
     "name": "Pistachio Glow Nov 15",
     "category": "triadic",
