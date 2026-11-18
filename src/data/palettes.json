@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwlnkt01",
+    "name": "Zen Bamboo Nov 18",
+    "category": "complementary",
+    "createdAt": "2026-11-18T05:00:36.433Z",
+    "likes": 269,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#E06D2E",
+        "hsl": [
+          21,
+          74,
+          53
+        ],
+        "name": "Vibrant Coral",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E5BEA9",
+        "hsl": [
+          21,
+          54,
+          78
+        ],
+        "name": "Warm Peach",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1289CA",
+        "hsl": [
+          201,
+          84,
+          43
+        ],
+        "name": "Midnight Navy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#C3D9E5",
+        "hsl": [
+          201,
+          39,
+          83
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwk9g8o1",
     "name": "Coral Lagoon Nov 17",
     "category": "monochromatic",
