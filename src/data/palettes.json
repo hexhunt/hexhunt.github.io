@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwn2twbx",
+    "name": "Citrus Splash Nov 19",
+    "category": "analogous",
+    "createdAt": "2026-11-19T04:55:21.069Z",
+    "likes": 347,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#8BB6E5",
+        "hsl": [
+          211,
+          63,
+          72
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#4441E1",
+        "hsl": [
+          241,
+          73,
+          57
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#7B1AD5",
+        "hsl": [
+          271,
+          78,
+          47
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#81227F",
+        "hsl": [
+          301,
+          58,
+          32
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mwlnkt01",
     "name": "Zen Bamboo Nov 18",
     "category": "complementary",
