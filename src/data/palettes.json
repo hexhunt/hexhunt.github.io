@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwohxkfk",
+    "name": "Aurora Borealis Nov 20",
+    "category": "triadic",
+    "createdAt": "2026-11-20T04:45:52.687Z",
+    "likes": 316,
+    "tags": [
+      "triadic",
+      "light",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#5764DB",
+        "hsl": [
+          234,
+          65,
+          60
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E87D88",
+        "hsl": [
+          354,
+          70,
+          70
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#40B234",
+        "hsl": [
+          114,
+          55,
+          45
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E6E7F0",
+        "hsl": [
+          234,
+          25,
+          92
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwn2twbx",
     "name": "Citrus Splash Nov 19",
     "category": "analogous",
