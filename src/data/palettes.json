@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwrb0lfv",
+    "name": "Starlight Glade Nov 22",
+    "category": "monochromatic",
+    "createdAt": "2026-11-22T03:55:35.178Z",
+    "likes": 250,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#BD0586",
+        "hsl": [
+          318,
+          95,
+          38
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F34FC1",
+        "hsl": [
+          318,
+          87,
+          63
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EF9FD7",
+        "hsl": [
+          318,
+          72,
+          78
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#F6E4F1",
+        "hsl": [
+          318,
+          52,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwpx79jb",
     "name": "Matcha Cream Nov 21",
     "category": "tetradic",
