@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwsrwpzo",
+    "name": "Retro Arcade Nov 23",
+    "category": "complementary",
+    "createdAt": "2026-11-23T04:36:14.100Z",
+    "likes": 235,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#1DBF91",
+        "hsl": [
+          163,
+          74,
+          43
+        ],
+        "name": "Teal Depth",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#81D9C0",
+        "hsl": [
+          163,
+          54,
+          68
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9B0D36",
+        "hsl": [
+          343,
+          84,
+          33
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D59FAF",
+        "hsl": [
+          343,
+          39,
+          73
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwrb0lfv",
     "name": "Starlight Glade Nov 22",
     "category": "monochromatic",
