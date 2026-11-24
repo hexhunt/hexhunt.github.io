@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwudiwf0",
+    "name": "Galactic Nebula Nov 24",
+    "category": "analogous",
+    "createdAt": "2026-11-24T07:29:06.972Z",
+    "likes": 282,
+    "tags": [
+      "analogous",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#E3E561",
+        "hsl": [
+          61,
+          72,
+          64
+        ],
+        "name": "Golden Honey",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#7AE316",
+        "hsl": [
+          91,
+          82,
+          49
+        ],
+        "name": "Emerald Spire",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#0DBA10",
+        "hsl": [
+          121,
+          87,
+          39
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      },
+      {
+        "hex": "#14663F",
+        "hsl": [
+          151,
+          67,
+          24
+        ],
+        "name": "Deep Forest",
+        "contrast": "light"
+      }
+    ]
+  },
+  {
     "id": "pal-mwsrwpzo",
     "name": "Retro Arcade Nov 23",
     "category": "complementary",
