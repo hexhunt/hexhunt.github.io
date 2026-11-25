@@ -1,5 +1,58 @@
 [
   {
+    "id": "pal-mwvpq20x",
+    "name": "Vaporwave Dusk Nov 25",
+    "category": "triadic",
+    "createdAt": "2026-11-25T05:58:22.401Z",
+    "likes": 347,
+    "tags": [
+      "triadic",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#C69E24",
+        "hsl": [
+          45,
+          69,
+          46
+        ],
+        "name": "Bronze Topaz",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#3CE2B8",
+        "hsl": [
+          165,
+          74,
+          56
+        ],
+        "name": "Cyan Splash",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#74258E",
+        "hsl": [
+          285,
+          59,
+          35
+        ],
+        "name": "Imperial Indigo",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F1EEE5",
+        "hsl": [
+          45,
+          29,
+          92
+        ],
+        "name": "Sunlight Glow",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwudiwf0",
     "name": "Galactic Nebula Nov 24",
     "category": "analogous",
