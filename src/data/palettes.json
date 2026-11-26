@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwx4wilf",
+    "name": "Hyperpop Energy Nov 26",
+    "category": "tetradic",
+    "createdAt": "2026-11-26T05:51:04.226Z",
+    "likes": 252,
+    "tags": [
+      "tetradic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#6125EF",
+        "hsl": [
+          258,
+          86,
+          54
+        ],
+        "name": "Electric Violet",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E878C6",
+        "hsl": [
+          318,
+          71,
+          69
+        ],
+        "name": "Neon Magenta",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#9BDB06",
+        "hsl": [
+          78,
+          95,
+          44
+        ],
+        "name": "Deep Forest",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#D6F5DF",
+        "hsl": [
+          138,
+          61,
+          90
+        ],
+        "name": "Fresh Mint",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwvpq20x",
     "name": "Vaporwave Dusk Nov 25",
     "category": "triadic",
