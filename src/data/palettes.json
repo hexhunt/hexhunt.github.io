@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwyk4ten",
+    "name": "Saffron Silk Nov 27",
+    "category": "monochromatic",
+    "createdAt": "2026-11-27T05:45:11.903Z",
+    "likes": 266,
+    "tags": [
+      "monochromatic",
+      "vibrant",
+      "modern"
+    ],
+    "colors": [
+      {
+        "hex": "#5E0249",
+        "hsl": [
+          314,
+          95,
+          19
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#D60AA7",
+        "hsl": [
+          314,
+          91,
+          44
+        ],
+        "name": "Plum Shadow",
+        "contrast": "light"
+      },
+      {
+        "hex": "#E854C5",
+        "hsl": [
+          314,
+          76,
+          62
+        ],
+        "name": "Neon Magenta",
+        "contrast": "light"
+      },
+      {
+        "hex": "#F7E3F2",
+        "hsl": [
+          314,
+          56,
+          93
+        ],
+        "name": "Sakura Pink",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwx4wilf",
     "name": "Hyperpop Energy Nov 26",
     "category": "tetradic",
