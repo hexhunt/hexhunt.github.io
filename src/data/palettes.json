@@ -1,5 +1,59 @@
 [
   {
+    "id": "pal-mwzyui33",
+    "name": "Tropical Breeze Nov 28",
+    "category": "complementary",
+    "createdAt": "2026-11-28T05:24:51.087Z",
+    "likes": 220,
+    "tags": [
+      "complementary",
+      "vibrant",
+      "light"
+    ],
+    "colors": [
+      {
+        "hex": "#E17456",
+        "hsl": [
+          13,
+          70,
+          61
+        ],
+        "name": "Crimson Pulse",
+        "contrast": "light"
+      },
+      {
+        "hex": "#EDD1C9",
+        "hsl": [
+          13,
+          50,
+          86
+        ],
+        "name": "Blush Rose",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#1EBBE6",
+        "hsl": [
+          193,
+          80,
+          51
+        ],
+        "name": "Cobalt Energy",
+        "contrast": "dark"
+      },
+      {
+        "hex": "#E0EDF0",
+        "hsl": [
+          193,
+          35,
+          91
+        ],
+        "name": "Sky Glaze",
+        "contrast": "dark"
+      }
+    ]
+  },
+  {
     "id": "pal-mwyk4ten",
     "name": "Saffron Silk Nov 27",
     "category": "monochromatic",
